@@ -7,4 +7,3 @@ data(mtcars)
 
 plot(mtcars$mpg, mtcars$hp)
 
-# add comments
